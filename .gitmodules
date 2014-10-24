@@ -1,0 +1,3 @@
+[submodule "haskell-le-langage-de-l-eternel/Haskell-Ulm-HashCode"]
+	path = haskell-le-langage-de-l-eternel/Haskell-Ulm-HashCode
+	url = git@github.com:nguyentito/Haskell-Ulm-HashCode.git
